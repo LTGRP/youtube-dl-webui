@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: youtube-dl-webui
+Version: rolling
+Summary: webui for youtube-dl
+Home-page: UNKNOWN
+Author: d0u9, yuanyingfeiyu
+Author-email: d0u9.su@outlook.com
+License: GPL-2.0
+Description: Another webui for youtube-dl, powered by youtube-dl
+Platform: UNKNOWN
